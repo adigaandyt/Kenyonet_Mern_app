@@ -1,0 +1,15 @@
+{
+  "name": "kenyonet_mern_app",
+  "version": "1.0.0",
+  "description": "Web app for various store needs",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon ./backend/server.js"
+  },
+  "author": "Andy Thaok",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
